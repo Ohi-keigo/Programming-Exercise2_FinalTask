@@ -1,8 +1,6 @@
-#include <string>
-
 using namespace std;
 
-class Data {
+class Data { //5í‚Ì®”’l‚©‚ç‚È‚éƒNƒ‰ƒXData‚ğì¬
 protected:
 
 	int hp;
